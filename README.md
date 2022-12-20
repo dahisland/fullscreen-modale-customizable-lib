@@ -2,7 +2,7 @@
 
 A simple React component fullscreen modale centered and easily customizable.
 
-NPM package is available here : url.
+NPM package is available here : url.<br/>
 Github repository is available here : https://github.com/dahisland/fullscreen-modale-customizable-lib.
 
 ## \* INSTALLATION
