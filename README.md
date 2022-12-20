@@ -17,6 +17,10 @@ Import this component in your project by using at top of the react js file of yo
 
 `import { ModaleFullscreen } from "modale-fullscreen-customizable";`
 
+Then, you can use the component in your file like others components.
+
+ex: `<ModaleFullscreen />`
+
 ## \* HOW IT WORKS
 
 By default, this modale only display an empty container with an icon used to close modale by using the function of your choice.
