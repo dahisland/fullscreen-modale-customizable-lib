@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.test-library-component-container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
